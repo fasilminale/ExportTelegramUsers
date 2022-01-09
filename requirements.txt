@@ -1,0 +1,5 @@
+pyaes==1.6.1
+pyasn1==0.4.5
+PyYAML==5.1
+rsa==4.0
+Telethon==1.8.0
